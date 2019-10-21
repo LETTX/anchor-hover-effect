@@ -37,3 +37,11 @@ Currently, there are four different types of effect.
 * **borderBottom :** It adds border bottom with animation.
 
 ## License: MIT
+
+
+$(".ulDefault a").anchorHoverEffect({type: 'brackets'});
+
+roller3d ：默认动画效果，3D翻转效果。
+brackets ：方括号动画效果。
+flip ：上下翻转超链接文本。
+borderBottom ：下划线动画效果。
